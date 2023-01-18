@@ -7,6 +7,12 @@
     <title>Document</title>
 </head>
 <body>
+    // Muhammad Asari P4
+    // Tio dewantara P1
+    // Muhamad abdul jabar P1
+    // Brian rangga kahana putra P4
+    // Fazri Ramdani P1
+    // Aufa asad P1
  <h1>Biodata siswa</h1>
     <form action="#" method="POST">
         <input type="Text" name="nama" placeholder="Nama"><br><br>
